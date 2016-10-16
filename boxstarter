@@ -29,3 +29,4 @@ cinst -y vlc
 cinst -y f.lux
 cinst -y notepad2
 cinst -y freefilesync
+cinst -y jdk8
