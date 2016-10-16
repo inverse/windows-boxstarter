@@ -11,8 +11,6 @@ cinst -y googlechrome
 cinst -y googledrive
 cinst -y dropbox
 
-## Dev
-
 cinst -y cmder -pre
 cinst -y Gow
 cinst -y git.install
@@ -23,8 +21,7 @@ cinst -y virtualbox
 cinst -y vagrant
 
 
-## Utils
-
+cinst -y clipx
 cinst -y ccleaner
 cinst -y 7zip
 cinst -y 7zip.install
