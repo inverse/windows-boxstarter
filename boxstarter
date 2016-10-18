@@ -30,3 +30,5 @@ cinst -y f.lux
 cinst -y notepad2
 cinst -y freefilesync
 cinst -y jdk8
+cinst -y rufus
+cinst -y filezilla
