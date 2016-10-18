@@ -11,11 +11,11 @@ cinst -y googlechrome
 cinst -y googledrive
 cinst -y dropbox
 
-cinst -y cmder -pre
-cinst -y Gow
+cinst -y conemu
+cinst -y chocolatey
 cinst -y git.install
-cinst -y SublimeText3
-cinst -y SublimeText3.PackageControl
+cinst -y sublimetext3
+cinst -y sublimetext3.packagecontrol
 cinst -y putty.install
 cinst -y virtualbox
 cinst -y vagrant
